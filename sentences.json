@@ -1,0 +1,352 @@
+[
+ {
+  "addedAt": 1793844066440,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "0334bc93f9",
+  "source": "The Art of Doing Science and Engineering: Learning to Learn",
+  "text": "My first talk concentrated on the hardware, and I dealt with the limitations of it, including, as I mentioned in Chapter 3, the three relevant laws of nature: the size of molecules, the speed of light, and the problem of heat dissipation.",
+  "url": "https://chenjing002.github.io/hy-ebook-translator/reader.html?doc=The%20Art%20of%20Doing%20Science%20and%20Engineering.md#sec-6",
+  "words": [
+   {
+    "def": null,
+    "forms": [],
+    "word": "dissipation"
+   }
+  ]
+ },
+ {
+  "addedAt": 1793685809143,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "36fcbdf0d9",
+  "source": "The Art of Doing Science and Engineering: Learning to Learn",
+  "text": "I shall use history as a guide many times in spite of Henry Ford Sr. saying, “History is bunk.”",
+  "url": "https://chenjing002.github.io/hy-ebook-translator/reader.html?doc=The%20Art%20of%20Doing%20Science%20and%20Engineering.md#sec-3",
+  "words": [
+   {
+    "def": {
+     "meanings": [
+      {
+       "def": "One of a series of berths or beds placed in tiers.",
+       "pos": "noun"
+      },
+      {
+       "def": "To occupy a bunk.",
+       "pos": "verb"
+      },
+      {
+       "def": "Defective, broken, not functioning properly",
+       "pos": "adjective"
+      }
+     ],
+     "phonetic": "/bʌŋk/"
+    },
+    "forms": [],
+    "word": "bunk"
+   }
+  ]
+ },
+ {
+  "addedAt": 1793676553962,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "8d51bbfa7a",
+  "source": "The Art of Doing Science and Engineering: Learning to Learn",
+  "text": "In any case, I will often use history as a background for the extrapolations I make.",
+  "url": "https://chenjing002.github.io/hy-ebook-translator/reader.html?doc=The%20Art%20of%20Doing%20Science%20and%20Engineering.md#sec-3",
+  "words": [
+   {
+    "def": {
+     "meanings": [
+      {
+       "def": "A calculation of an estimate of the value of some function outside the range of known values.",
+       "pos": "noun"
+      }
+     ],
+     "phonetic": ""
+    },
+    "forms": [],
+    "word": "extrapolations"
+   }
+  ]
+ },
+ {
+  "addedAt": 1793675726734,
+  "cutEnd": false,
+  "cutStart": true,
+  "id": "f88db3ee03",
+  "source": "The Art of Doing Science and Engineering: Learning to Learn",
+  "text": "(because at Bell Telephone Laboratories they were at that time obviously important) I soon found myself helping, in the form of computing, the development of transistors—which obsoleted my just-learned knowledge!",
+  "url": "https://chenjing002.github.io/hy-ebook-translator/reader.html?doc=The%20Art%20of%20Doing%20Science%20and%20Engineering.md#sec-3",
+  "words": [
+   {
+    "def": null,
+    "forms": [],
+    "word": "obsoleted"
+   }
+  ]
+ },
+ {
+  "addedAt": 1793506060099,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "a38c94b8b5",
+  "source": "The Art of Doing Science and Engineering: Learning to Learn",
+  "text": "I have found that the personal story is far, far more effective than the impersonal one; hence there is necessarily an aura of “bragging” in the book that is unavoidable.",
+  "url": "https://chenjing002.github.io/hy-ebook-translator/reader.html?doc=The%20Art%20of%20Doing%20Science%20and%20Engineering.md#sec-2",
+  "words": [
+   {
+    "def": null,
+    "forms": [],
+    "word": "bragging"
+   }
+  ]
+ },
+ {
+  "addedAt": 1793454032760,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "d3e534f57d",
+  "source": "The Art of Doing Science and Engineering: Learning to Learn",
+  "text": "He was employed essentially as a kind of internal mathematical consultant; he spent his days helping other people with their problems, often problems of a practical and mundane nature.",
+  "url": "https://chenjing002.github.io/hy-ebook-translator/reader.html?doc=The%20Art%20of%20Doing%20Science%20and%20Engineering.md",
+  "words": [
+   {
+    "def": null,
+    "forms": [],
+    "word": "mundane"
+   }
+  ]
+ },
+ {
+  "addedAt": 1793453576193,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "8456d56aa1",
+  "source": "The Art of Doing Science and Engineering: Learning to Learn",
+  "text": "And yet, it is well-known that science is a fundamentally social enterprise, advanced by the intermingling ideas and cumulative contributions of an untold mass of names which, if not lost to the ages, are at least absent from Wikipedia.",
+  "url": "https://chenjing002.github.io/hy-ebook-translator/reader.html?doc=The%20Art%20of%20Doing%20Science%20and%20Engineering.md",
+  "words": [
+   {
+    "def": null,
+    "forms": [],
+    "word": "intermingling"
+   }
+  ]
+ },
+ {
+  "addedAt": 1793453506466,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "cdb3a61132",
+  "source": "The Art of Doing Science and Engineering: Learning to Learn",
+  "text": "Hamming’s heroes assume almost mythical stature, swashbuckling across the scientific frontier, generating history in their wake.",
+  "url": "https://chenjing002.github.io/hy-ebook-translator/reader.html?doc=The%20Art%20of%20Doing%20Science%20and%20Engineering.md",
+  "words": [
+   {
+    "def": null,
+    "forms": [],
+    "word": "mythical"
+   },
+   {
+    "def": null,
+    "forms": [],
+    "word": "stature"
+   },
+   {
+    "def": null,
+    "forms": [],
+    "word": "swashbuckling"
+   }
+  ]
+ },
+ {
+  "addedAt": 1793453193597,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "1170db770b",
+  "source": "The Art of Doing Science and Engineering: Learning to Learn",
+  "text": "We can gather small hints from the loose reflections of Hadamard, the lofty theories of Koestler, the tactical heuristics of Pólya and Altshuller.",
+  "url": "https://chenjing002.github.io/hy-ebook-translator/reader.html?doc=The%20Art%20of%20Doing%20Science%20and%20Engineering.md",
+  "words": [
+   {
+    "def": null,
+    "forms": [],
+    "word": "heuristics"
+   }
+  ]
+ },
+ {
+  "addedAt": 1793445256399,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "4aa747081a",
+  "source": "The Art of Doing Science and Engineering: Learning to Learn",
+  "text": "For one accustomed to the myopia of day-to-day work in a field, so jammed against the swaggering parade of passing trends that one can hardly see beyond them or beneath them, such shifts in viewpoint are exhilarating—a reminder that information may be abundant but wisdom is rare.",
+  "url": "https://chenjing002.github.io/hy-ebook-translator/reader.html?doc=The%20Art%20of%20Doing%20Science%20and%20Engineering.md",
+  "words": [
+   {
+    "def": {
+     "meanings": [
+      {
+       "def": "A disorder of the vision where distant objects appear blurred because the eye focuses their images in front of the retina instead of on it.",
+       "pos": "noun"
+      }
+     ],
+     "phonetic": "/maɪˈəʊ.pɪ.ə/"
+    },
+    "forms": [],
+    "word": "myopia"
+   },
+   {
+    "def": {
+     "meanings": [
+      {
+       "def": "To get something stuck in a confined space.",
+       "pos": "verb"
+      },
+      {
+       "def": "Stuck.",
+       "pos": "adjective"
+      }
+     ],
+     "phonetic": ""
+    },
+    "forms": [],
+    "word": "jammed"
+   },
+   {
+    "def": {
+     "meanings": [
+      {
+       "def": "To walk with a swaying motion; hence, to walk and act in a pompous, consequential manner.",
+       "pos": "verb"
+      },
+      {
+       "def": "Boastful, blustering behaviour.",
+       "pos": "noun"
+      },
+      {
+       "def": "Boastful, proud, self-confident.",
+       "pos": "adjective"
+      }
+     ],
+     "phonetic": ""
+    },
+    "forms": [],
+    "word": "swaggering"
+   },
+   {
+    "def": {
+     "meanings": [
+      {
+       "def": "An organized procession consisting of a series of consecutive displays, performances, exhibits, etc. displayed by moving down a street past a crowd of spectators.",
+       "pos": "noun"
+      },
+      {
+       "def": "To march in or as if in a procession.",
+       "pos": "verb"
+      }
+     ],
+     "phonetic": "/pəˈɹeɪd/"
+    },
+    "forms": [],
+    "word": "parade"
+   },
+   {
+    "def": null,
+    "forms": [],
+    "word": "exhilarating"
+   }
+  ]
+ },
+ {
+  "addedAt": 1793363729684,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "52e369f6cc",
+  "source": "The Art of Doing Science and Engineering: Learning to Learn",
+  "text": "And then, even in the same sentence, a zoom out to the wide shot, the subject contextualized against the broad scientific landscape, a link in the long chain of history.",
+  "url": "https://chenjing002.github.io/hy-ebook-translator/reader.html?doc=The%20Art%20of%20Doing%20Science%20and%20Engineering.md",
+  "words": [
+   {
+    "def": {
+     "meanings": [
+      {
+       "def": "To launch a projectile.",
+       "pos": "verb"
+      },
+      {
+       "def": "The result of launching a projectile or bullet.",
+       "pos": "noun"
+      },
+      {
+       "def": "Worn out or broken.",
+       "pos": "adjective"
+      }
+     ],
+     "phonetic": "/ʃɒt/"
+    },
+    "forms": [],
+    "word": "shot"
+   }
+  ]
+ },
+ {
+  "addedAt": 1793359241289,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "d41b7b0d89",
+  "source": "The Art of Doing Science and Engineering: Learning to Learn",
+  "text": "Among the most remarkable attributes of Hamming’s style of thinking is its sweeping range of scale.",
+  "url": "https://chenjing002.github.io/hy-ebook-translator/reader.html?doc=The%20Art%20of%20Doing%20Science%20and%20Engineering.md",
+  "words": [
+   {
+    "def": {
+     "meanings": [
+      {
+       "def": "To clean (a surface) by means of a stroking motion of a broom or brush.",
+       "pos": "verb"
+      },
+      {
+       "def": "An instance of sweeping.",
+       "pos": "noun"
+      },
+      {
+       "def": "Wide, broad, affecting or touching upon many things",
+       "pos": "adjective"
+      }
+     ],
+     "phonetic": "/ˈswiːpɪŋ/"
+    },
+    "forms": [],
+    "word": "sweeping"
+   }
+  ]
+ },
+ {
+  "addedAt": 1793358934438,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "0a2903c03c",
+  "source": "The Art of Doing Science and Engineering: Learning to Learn",
+  "text": "We live in an age of exponential growth in knowledge, and it is increasingly futile to teach only polished theorems and proofs.",
+  "url": "https://chenjing002.github.io/hy-ebook-translator/reader.html?doc=The%20Art%20of%20Doing%20Science%20and%20Engineering.md",
+  "words": [
+   {
+    "def": {
+     "meanings": [
+      {
+       "def": "A mathematical statement of some importance that has been proven to be true. Minor theorems are often called propositions. Theorems which are not very interesting in themselves but are an essential part of a bigger theorem's proof are called lemmas.",
+       "pos": "noun"
+      }
+     ],
+     "phonetic": ""
+    },
+    "forms": [],
+    "word": "theorems"
+   }
+  ]
+ }
+]
