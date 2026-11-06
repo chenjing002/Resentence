@@ -1,5 +1,33 @@
 [
  {
+  "addedAt": 1793945502932,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "2e823f6f40",
+  "source": "23: Tamara Winter - Tacit Trust & Caring Curiosity",
+  "text": "It’s really interesting that there is some sort of disdain for people just admitting that they are heavily influenced by these seven people.",
+  "url": "https://www.dialectic.fm/tamara-winter",
+  "words": [
+   {
+    "def": {
+     "meanings": [
+      {
+       "def": "A feeling of contempt or scorn.",
+       "pos": "noun"
+      },
+      {
+       "def": "To regard (someone or something) with strong contempt.",
+       "pos": "verb"
+      }
+     ],
+     "phonetic": "/dɪsˈdeɪn/"
+    },
+    "forms": [],
+    "word": "disdain"
+   }
+  ]
+ },
+ {
   "addedAt": 1793945366294,
   "cutEnd": false,
   "cutStart": false,
