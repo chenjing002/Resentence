@@ -1,5 +1,29 @@
 [
  {
+  "addedAt": 1793945049920,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "6d8792bf94",
+  "source": "23: Tamara Winter - Tacit Trust & Caring Curiosity",
+  "text": "She’s now the head of comms at Anthropic, but she was the ringleader of this team.",
+  "url": "https://www.dialectic.fm/tamara-winter",
+  "words": [
+   {
+    "def": {
+     "meanings": [
+      {
+       "def": "A leader of a group of people, especially an unofficial group.",
+       "pos": "noun"
+      }
+     ],
+     "phonetic": "/ˈɹɪŋˌliːdəɹ/"
+    },
+    "forms": [],
+    "word": "ringleader"
+   }
+  ]
+ },
+ {
   "addedAt": 1793944963100,
   "cutEnd": false,
   "cutStart": false,
