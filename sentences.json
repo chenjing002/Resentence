@@ -1,5 +1,33 @@
 [
  {
+  "addedAt": 1793949913843,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "c2c7fdd66c",
+  "source": "23: Tamara Winter - Tacit Trust & Caring Curiosity",
+  "text": "One is what you call turpentine: the very pragmatic, “here’s how to do things.”",
+  "url": "https://www.dialectic.fm/tamara-winter",
+  "words": [
+   {
+    "def": {
+     "meanings": [
+      {
+       "def": "A volatile essential oil obtained from the wood of pine trees by steam distillation; it is a complex mixture of monoterpenes; it is used as a solvent and paint thinner.",
+       "pos": "noun"
+      },
+      {
+       "def": "To drain resin from (a tree) for use in making turpentine.",
+       "pos": "verb"
+      }
+     ],
+     "phonetic": "/ˈtɜː.pən.ˌtaɪn/"
+    },
+    "forms": [],
+    "word": "turpentine"
+   }
+  ]
+ },
+ {
   "addedAt": 1793945502932,
   "cutEnd": false,
   "cutStart": false,
