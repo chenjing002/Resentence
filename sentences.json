@@ -1,5 +1,29 @@
 [
  {
+  "addedAt": 1793945366294,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "b8da7834bb",
+  "source": "23: Tamara Winter - Tacit Trust & Caring Curiosity",
+  "text": "Jackson: You pointed out something really special, which is apprenticing to curiosity by osmosis.",
+  "url": "https://www.dialectic.fm/tamara-winter",
+  "words": [
+   {
+    "def": {
+     "meanings": [
+      {
+       "def": "The net movement of solvent molecules, usually water, from a region of lower solute concentration to a region of higher solute concentration through a partially permeable membrane.",
+       "pos": "noun"
+      }
+     ],
+     "phonetic": ""
+    },
+    "forms": [],
+    "word": "osmosis"
+   }
+  ]
+ },
+ {
   "addedAt": 1793945049920,
   "cutEnd": false,
   "cutStart": false,
