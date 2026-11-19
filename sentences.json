@@ -1,5 +1,29 @@
 [
  {
+  "addedAt": 1795082172790,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "75101fcf6d",
+  "source": "2004 Letter to Shareholders",
+  "text": "Though it’s more subtle and complex in the real world, this issue—the duality between earnings and cash flows—comes up all the time.",
+  "url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312505070440/dex991.htm?utm_source=chatgpt.com",
+  "words": [
+   {
+    "def": {
+     "meanings": [
+      {
+       "def": "A classification into two subclasses or opposed parts.",
+       "pos": "noun"
+      }
+     ],
+     "phonetic": "/d(j)uːˈælɪti/"
+    },
+    "forms": [],
+    "word": "duality"
+   }
+  ]
+ },
+ {
   "addedAt": 1793949913843,
   "cutEnd": false,
   "cutStart": false,
