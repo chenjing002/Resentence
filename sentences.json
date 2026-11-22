@@ -1,5 +1,29 @@
 [
  {
+  "addedAt": 1795322568933,
+  "cutEnd": false,
+  "cutStart": false,
+  "id": "8a5c744e68",
+  "source": "2004 Letter to Shareholders",
+  "text": "Though we are optimistic, we must remain vigilant and maintain a sense of urgency.",
+  "url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312505070440/dex991.htm",
+  "words": [
+   {
+    "def": {
+     "meanings": [
+      {
+       "def": "Watchful, especially for danger or disorder; alert; wary",
+       "pos": "adjective"
+      }
+     ],
+     "phonetic": "/ˈvɪdʒɪlənt/"
+    },
+    "forms": [],
+    "word": "vigilant"
+   }
+  ]
+ },
+ {
   "addedAt": 1795322175233,
   "cutEnd": false,
   "cutStart": false,
